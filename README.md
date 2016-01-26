@@ -9,6 +9,7 @@ Installation
 
 Make sure you have the following dependencies installed in your /Arduino/libraries/ folder:
 
-ConfigurableFirmata
-FirmataPing
+[ConfigurableFirmata](https://github.com/firmata/ConfigurableFirmata)
+[FirmataPing](https://github.com/nahueltaibo/FirmataPing)
+
 Clone or download and copy FirmataPing into your /Arduino/libraries/ folder.
