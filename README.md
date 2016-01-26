@@ -1,5 +1,4 @@
 # FirmataPing
-Plugin 
 
 A Firmata wrapper for ultrasonic range finder sensors.
 
