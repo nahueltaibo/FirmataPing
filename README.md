@@ -1,5 +1,7 @@
 # FirmataPing
 
+**[Project in progress, not ready to be used]**
+
 A Firmata wrapper for ultrasonic range finder sensors.
 
 This library adds support for range finder sensors like the hc-sr04 to ConfigurableFirmata.
